@@ -1,0 +1,2 @@
+This example demonstrates how there can be several levels of dependency around
+AIDL in particular in a multi-module Android maven build.
